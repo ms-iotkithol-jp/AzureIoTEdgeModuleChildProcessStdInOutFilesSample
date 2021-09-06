@@ -8,7 +8,7 @@ Linux 系の Docker と Windows 系の Docker でもまた微妙に設定が違�
 
 ---
 ## Architecture 
-![architecture](./images/architecture.png) 
+![architecture](./images/architecture.svg) 
 
 ---
 ## サンプルの Build と Container Registry への Push 
